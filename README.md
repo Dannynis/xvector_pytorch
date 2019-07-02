@@ -20,6 +20,7 @@ Jupyter notebook for the network training
 
 Notebook that extracts X-vectors on new utterances and via LDA reduces thier dimensions and plots them in 2D and 3D
 
+
 Xvectors 3d scatter of the trained speakers and new unseen speaker - Andrew_ng
 ![lda-3dim-with-andrew.png](https://github.com/Dannynis/xvector_pytorch/blob/master/lda-3dim-with-andrew.png?raw=true) 
 
